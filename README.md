@@ -1,2 +1,28 @@
-# 1086fc6d-etsy-seller-tools-customer-chu
-Professional etsy seller n8n automation workflow — without the professional price tag.  Built for production: error handling, retry logic, and failure notifications included. Import the JSON, set your credentials, click activate. Running in minutes.  ## What's Included  - Etsy Seller Tools Customer Churn Prediction And Re-Engagement — fully configu
+# Etsy Seller Tools Customer Churn Prediction and Re-engagement N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQfZh9z9e2M2hicDWcZK3j)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQfZh9z9e2M2hicDWcZK3j)
+
